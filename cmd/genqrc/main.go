@@ -166,7 +166,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SjB/qml"
+	"github.com/amlwwalker/qml"
 )
 
 func init() {
